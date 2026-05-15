@@ -1,0 +1,28 @@
+John Doe
+
+Python Developer & Data Analyst
+
+Skills:
+Python
+Pandas
+NumPy
+Machine Learning
+SQL
+Power BI
+FastAPI
+AWS
+Docker
+GitHub
+
+Experience:
+2 years of experience in Python development,
+data analysis, dashboard creation,
+and machine learning projects.
+
+Projects:
+- Stock Market Prediction System
+- Weather Forecast Dashboard
+- AI Resume Screening Tool
+
+Education:
+B.Tech in Computer Science

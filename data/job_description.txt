@@ -1,0 +1,19 @@
+We are hiring a Python Developer.
+
+Required Skills:
+Python
+SQL
+Pandas
+Machine Learning
+FastAPI
+AWS
+Docker
+Git
+
+Responsibilities:
+Build APIs, analyze data,
+develop machine learning systems,
+and deploy cloud applications.
+
+Experience Required:
+2+ years

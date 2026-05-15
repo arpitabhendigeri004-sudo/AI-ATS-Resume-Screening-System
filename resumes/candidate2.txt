@@ -1,0 +1,22 @@
+Jane Smith
+
+Frontend Developer
+
+Skills:
+HTML
+CSS
+JavaScript
+React
+MongoDB
+GitHub
+
+Experience:
+Built frontend applications using React.
+Worked on UI/UX projects and web applications.
+
+Projects:
+- Portfolio Website
+- E-commerce Frontend
+
+Education:
+B.Tech in Information Science

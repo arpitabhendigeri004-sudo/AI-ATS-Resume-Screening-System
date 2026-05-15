@@ -1,0 +1,35 @@
+John Doe
+
+AI/ML Engineer
+
+Skills:
+Python
+SQL
+Machine Learning
+Deep Learning
+NLP
+Pandas
+NumPy
+Docker
+AWS
+Git
+GitHub
+FastAPI
+Streamlit
+TensorFlow
+Data Analysis
+API Development
+
+Experience:
+Built AI-powered NLP systems using Python and FastAPI.
+Worked on Machine Learning and Deep Learning projects.
+Developed Streamlit dashboards for analytics.
+Deployed ML models using Docker and AWS.
+
+Projects:
+- Resume Screening System
+- AI Chatbot
+- Stock Market Predictor
+
+Education:
+Bachelor of Engineering in Computer Science
