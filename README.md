@@ -1,4 +1,4 @@
-<img width="960" height="540" alt="ss5" src="https://github.com/user-attachments/assets/c2e0ba9f-d597-4859-83d4-5960afd94def" /># 🚀 AI ATS Resume Screening System
+# 🚀 AI ATS Resume Screening System
 
 An AI-powered ATS (Applicant Tracking System) Resume Screening Platform built using Python, NLP, Machine Learning, and Streamlit.
 
